@@ -1,0 +1,37 @@
+autoscan: warning: missing AC_CHECK_FUNCS([memset]) wanted by: 
+	tetris.c:228
+	tetris.c:229
+	tetris.c:479
+	tetris.c:526
+	tetris.c:535
+autoscan: warning: missing AC_CHECK_HEADERS([stdlib.h]) wanted by: 
+	stuff.h:24
+autoscan: warning: missing AC_CHECK_HEADERS([string.h]) wanted by: 
+	highscore.c:21
+autoscan: warning: missing AC_C_CONST wanted by: 
+	tetris.h:94
+	tetris.h:95
+	tetris.h:96
+	tetris.h:97
+	tetris.h:98
+	tetris.h:99
+	tetris.h:100
+	tetris.h:101
+	tetris.h:102
+	tetris.h:103
+	tetris.h:104
+	tetris.h:105
+	tetris.h:106
+	tetris.h:107
+	tetris.h:123
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	tetris.c:197
+	tetris.c:607
+	highscore.c:83
+	highscore.c:86
+	highscore.c:107
+	highscore.c:110
+	font.c:40
+	font.c:178
+autoscan: warning: missing AC_FUNC_REALLOC wanted by: 
+	highscore.c:190
